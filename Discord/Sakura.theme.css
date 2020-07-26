@@ -1,0 +1,75 @@
+//META{"name":"Sakura","description":"A theme based of the color scheme of a Sakura tree","author":"AlienTina","version":"0.1.0"}*//
+
+.theme-dark{
+    --background-primary:pink;
+    --background-secondary:lightpink;
+    --background-secondary-alt:lightpink;
+    --background-accent:black;
+    --background-tertiary: #e67f90;
+    --background-floating:pink;
+    --channeltextarea-background:lightpink;
+    --interactive-normal:black;
+    --channels-default:black;
+}
+
+.peopleColumn-29fq28{
+    background-color:pink;
+}
+
+.theme-dark .uploadModal-2ifh8j{
+    background-color: pink;
+}
+
+.theme-dark .footer-3mqk7D{
+    background-color: lightpink;
+}
+
+.inner-3nWsbo{
+    background-color: pink;
+}
+
+.childWrapper-anI2G9{
+    background-color:gray;
+}
+
+.markup-2BOw-j{
+    color:black;
+}
+
+.themed-OHr7kt.item-PXvHYJ{
+    color:black;
+}
+
+.username-1A8OIy{
+    color:black;
+    font-weight:bold;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header{
+    color:black;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item{
+    color:black;
+}
+
+.header-2RyJ0Y{
+    color:black;
+}
+
+.theme-dark #bd-settingspane-container h2.ui-form-title{
+    color:black;
+}
+
+.theme-dark #bd-settingspane-container .ui-switch-item h3{
+    color:black;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-thumb{
+    background-color:white;
+    border-color:pink;
+}
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-track-piece{
+    background-color:transparent;
+    border:none;
+}
