@@ -2,14 +2,14 @@ body {
     background-color: lightpink !important;
 }
 
-.r-14lw9ot{
-    background-color: pink;
+[data-testid="primaryColumn"], .css-1dbjc4n :not(.r-6416eg) :not(.r-ipm5af){
+  	background-color: lightpink;
 }
 
 .r-e84r5y{
-	background-color:lightpink;
+	background-color:lightpink !important;
 }
 
 .r-1u4rsef{
-    background-color:lightpink;
+    background-color:lightpink !important;
 }
